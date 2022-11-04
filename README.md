@@ -4,4 +4,5 @@ Unlike other token snipers this one does not require your seed or private key, m
 
 Solana Sniping now available in latest update
 
-The GUI has a help menu, to learn to use follow the steps.
+TO USE: 
+Open the executiable and Follow the instructions, It will guide you to setting it up.
